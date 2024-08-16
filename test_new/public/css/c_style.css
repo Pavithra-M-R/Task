@@ -1,0 +1,20 @@
+h3.ellipsis.title-text[title="Details"] {
+  color: #0000ff;
+}
+.details .widget-head {
+  color: #060270;
+}
+
+.details .ellipsis.title-text {
+  color: #ff5733;
+}
+<h3 class="ellipsis title-text">Details</h3>
+.details .ellipsis.title-text {
+  color: #ff5733;
+}
+.ellipsis.title-text {  color: #ff5733;
+}
+.details .ellipsis {
+  color: pink;
+}
+
