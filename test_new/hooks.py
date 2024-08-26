@@ -31,6 +31,9 @@ fixtures = [
 fixtures = [
     "B-"
 ]
+fixtures = [
+    "C-"
+]
 # required_apps = []
 
 # Includes in <head>
