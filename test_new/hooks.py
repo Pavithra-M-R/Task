@@ -20,9 +20,6 @@ fixtures = [
     "Subject Details"
 ]
 fixtures = [
-    "Custom Field"
-]
-fixtures = [
     "Document Naming Rule"
 ]
 fixtures = [
@@ -33,6 +30,9 @@ fixtures = [
 ]
 fixtures = [
     "C-"
+]
+fixtures = [
+    "Custom Field"
 ]
 # required_apps = []
 

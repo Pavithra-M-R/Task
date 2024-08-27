@@ -30,7 +30,7 @@
     "city": "ujire",
     "contact": "7022822956",
     "country": "india",
-    "name1": "000001",
+    "name1": "000004",
     "parent": "0000013",
     "parentfield": "user_details_tablea",
     "parenttype": "C-",
@@ -70,7 +70,7 @@
     "city": "ujire",
     "contact": "7022822956",
     "country": "india",
-    "name1": "000001",
+    "name1": "000004",
     "parent": "0000015",
     "parentfield": "user_details_tablea",
     "parenttype": "C-",
@@ -89,25 +89,5 @@
     "user": "pavithramr88@gmail.com"
    }
   ]
- },
- {
-  "docstatus": 0,
-  "doctype": "C-",
-  "modified": "2024-08-26 21:00:21.848409",
-  "name": "0000011",
-  "user": "thrupti@gmail.com",
-  "user_details_tablea": [
-   {
-    "city": "tyu",
-    "contact": "yu",
-    "country": "ytit",
-    "name1": "000004",
-    "parent": "0000011",
-    "parentfield": "user_details_tablea",
-    "parenttype": "C-",
-    "user": "thrupti@gmail.com"
-   }
-  ],
-  "user_details_tableb": []
  }
 ]
